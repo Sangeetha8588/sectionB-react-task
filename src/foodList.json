@@ -1,0 +1,22 @@
+[
+{"m1":{
+    "description":"Chicken Fried Rice",
+    "name":"Fried Rice",
+    "price":"150.00"
+},
+"m2":{
+    "description":"Mutton Briyani",
+    "name":"Briyani",
+    "price":"175.00"
+},
+"m3":{
+    "description":"Idly with Vada",
+    "name":"Idly",
+    "price":"50.00"
+},
+"m4":{
+    "description":"Dosa with Potato masala",
+    "name":"Dosa",
+    "price":"55.00"
+}}
+]
